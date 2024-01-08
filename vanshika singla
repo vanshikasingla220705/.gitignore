@@ -1,0 +1,5 @@
+# Ignore all files with .log extension
+*.cpp
+
+# Ignore a specific directory
+/cpp/
